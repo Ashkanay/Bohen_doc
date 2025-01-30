@@ -110,7 +110,7 @@ https://api.kurdishbohen.com/api/v1
 ## Authentication & Security
 - API requests must include a **valid access token** in the Authorization header.
 - Tokens expire after `3600 seconds` (1 hour).
-- Use the `/auth/token` endpoint to request a new token.
+- Use the `/integrations/third-party/auth/token` endpoint to request a new token.
 
 ## Error Handling
 | Status Code | Description |
