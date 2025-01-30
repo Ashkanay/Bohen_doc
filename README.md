@@ -12,7 +12,7 @@ https://api.kurdishbohen.com/api/v1
 
 ## 1. Authorization
 ### Endpoint
-**POST** `/auth/token`
+**POST** `/integrations/third-party/auth/token`
 
 ### Request Body
 ```json
