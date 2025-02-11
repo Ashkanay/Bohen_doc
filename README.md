@@ -54,15 +54,28 @@ https://api.kurdishbohen.com/api/v1
         {
             "id": 1,
             "name": "ھەولیەر"
+           "parent_id": null
         },
         {
             "id": 2,
             "name": "سلەیمانی"
+            "parent_id": null
         },
         {
             "id": 3,
             "name": "دەھوک"
-        }
+            "parent_id": null
+        },
+        {
+            "id": 4,
+            "name": "ڕانیە",
+            "parent_id": null
+        },
+        {
+            "id": 62,
+            "name": "جوار قرنە",
+            "parent_id": 4
+        },
     ]
 }
 ```
